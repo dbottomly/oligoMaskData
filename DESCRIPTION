@@ -1,0 +1,9 @@
+Package: oligoMaskData
+Title: Experimental Data Package for oligoMask
+Version: 0.99.0
+Author: Daniel Bottomly
+Description: Data Package automatically created on Mon Jan 13 13:03:24 2014.
+Maintainer: Daniel Bottomly <bottomly@ohsu.edu>
+Depends: Biobase
+License:  GPL-3
+biocViews: ExperimentData
